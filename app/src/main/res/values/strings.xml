@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Resume</string>
+    <string name="textViewTitle">Resume</string>
+    <string name="buttonForEducation">Education</string>
+    <string name="buttonForWorkExperience">Work Experience</string>
+    <string name="buttonForCall">Call Me</string>
+    <string name="buttonForEmail">Email Me</string>
+    <string name="descriptionForImage">Grace Distler Image</string>
+    <string name="textViewTitleForEducation">Education</string>
+    <string name="textViewTitleForWorkExperience">Work Experience</string>
+    <string name="buttonForReturnHome">Return Home</string>
+</resources>
